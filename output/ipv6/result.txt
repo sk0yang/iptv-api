@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 19:52:41,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+2025-12-14 07:49:32,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -205,13 +205,13 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
 浙江卫视,http://3501776.xyz:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 浙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://wouu.net:9977/udp/239.93.0.124:5140
 浙江卫视,http://lu.wqwqwq.sbs/itv/1000000005000265031.m3u8?cdn=ystenlive
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙江卫视,http://alvin.ergotron.net:8000/udp/239.77.1.33:5146
 浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225612/index.m3u8
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
 湖南卫视,http://3501776.xyz:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
@@ -535,7 +535,15 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 深圳卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8
 
 ☘️浙江频道,#genre#
+浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
+浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
@@ -893,7 +901,6 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州市广播电视台 新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
-宿松新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州新闻综合,rtmp://live.ahsz.tv/video?token=5ee5b1c3db702657f412ed18d270cdb7/s10001-szzh
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
@@ -953,7 +960,6 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
 凤凰资讯,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
@@ -962,6 +968,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
@@ -1065,6 +1072,7 @@ CCTV-5+,https://smart.pendy.dpdns.org/Smart.php
 精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8
 睛彩篮球,http://3501776.xyz:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
+睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
@@ -1084,8 +1092,10 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
+猫和老鼠,https://live.iill.top/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
