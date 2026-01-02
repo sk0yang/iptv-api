@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-02 19:54:09,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+2026-01-03 07:51:19,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -943,7 +943,6 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 凤凰香港,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
 凤凰香港,https://hls-gateway.vpstv.net/streams/476960.m3u8
-凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
@@ -1059,7 +1058,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.iill.top/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
 漫画解说,https://www.goodiptv.club/douyu/5907076
