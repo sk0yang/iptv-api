@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 19:58:54,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+2026-02-20 07:45:54,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -339,7 +339,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 河南卫视,http://alvin.ergotron.net:8000/udp/239.77.1.229:5146
 河南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
 河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0efe44eb7e2b472de3a3296f99b881c1&wsTime=1771509605
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=57d7b1ffefd25997c3f790e22e162814&wsTime=1771552697
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
 吉林卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -946,6 +946,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 纬来体育,https://smart.pendy.dpdns.org/Smart.php
 无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 无线新闻,https://hls-gateway.vpstv.net/streams/476926.m3u8
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 三立新闻,https://tv.iill.top/4gtv/229
@@ -966,6 +967,8 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 天映经典,https://cdn9.163189.xyz/smt1.1.php
@@ -1017,10 +1020,9 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
 七龙珠,https://live.metshop.top/huya/11601966
-中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://live.iill.top/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
