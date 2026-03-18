@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-18 20:07:10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+2026-03-19 07:45:34,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -338,7 +338,7 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 河南卫视,http://alvin.ergotron.net:8000/udp/239.77.1.229:5146
 河南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
 河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0b8734210f29f3254a809b73d903c75b&wsTime=1773842320
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0b1cac96c0367004568a9ac1c07853f5&wsTime=1773885531
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://hls-gateway.vpstv.net/streams/708871.m3u8
 吉林卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -947,8 +947,11 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
+七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.metshop.top/huya/11342413
+中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.iill.top/huya/11352879
@@ -956,8 +959,8 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://www.goodiptv.club/yy/24180320
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
-漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
+漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
 🎮游戏频道,#genre#
 
